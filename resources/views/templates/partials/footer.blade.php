@@ -10,7 +10,7 @@
                   <h2><span>Rumah</span>Sasirangan</h2>
                 </div>
 
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+                <p></p>
                 <div class="footer-icons">
                   <ul>
                     <li>
@@ -36,7 +36,7 @@
               <div class="footer-head">
                 <h4>information</h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                  
                 </p>
                 <div class="footer-contacts">
                   <p><span>Tel:</span> +123 456 789</p>
@@ -53,9 +53,12 @@
                 <h4>Instagram</h4>
                 <div class="flicker-img">
                   
-                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Rumah Banjar.jpg') !!}" alt=""></a>
-                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Gigi Haruan.jpg') !!}" alt=""></a>
-                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Bayam Raja.jpg') !!}" alt=""></a>
+                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Naga Balimbur.jpg') !!}" alt=""></a>
+                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Kambang Sakaki2.jpg') !!}" alt=""></a>
+                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Hiris Gagatas.jpg') !!}" alt=""></a>
+                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Kulat Karikit2.jpg') !!}" alt=""></a>
+                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Kambang Kacang2.jpg') !!}" alt=""></a>
+                  <a href="#"><img src="{!! asset('assets/img/batik/Motif Daun Jaruju.jpg') !!}" alt=""></a>
                 </div>
               </div>
             </div>
@@ -69,7 +72,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
-                &copy; Copyright <strong>eBusiness</strong>. All Rights Reserved
+                &copy; Copyright <strong>RumahSasirangan</strong>. All Rights Reserved
               </p>
             </div>
             <div class="credits">

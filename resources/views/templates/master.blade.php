@@ -15,8 +15,8 @@
           <div class="carousel-item active" style="background-image: url(assets/img/batik/a.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
-                <p class="animate__animated animate__fadeInUp">We're In The Business Of Helping You Start Your Business</p>
+                <h2 class="animate__animated animate__fadeInDown">Kain Tradisional Sasirangan</h2>
+                <p class="animate__animated animate__fadeInUp">Budaya Kain Tradisional Khas Suku Banjar</p>
                 <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
@@ -25,8 +25,8 @@
           <div class="carousel-item" style="background-image: url(assets/img/batik/c.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
-                <p class="animate__animated animate__fadeInUp">Helping Business Security & Peace of Mind for Your Family</p>
+                <h2 class="animate__animated animate__fadeInDown">Varian dari Batik</h2>
+                <p class="animate__animated animate__fadeInUp">Oleh-oleh yang Bisa Dibawa Pulang dari Kalimantan Selatan.</p>
                 <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
@@ -35,8 +35,8 @@
           <div class="carousel-item" style="background-image: url(assets/img/batik/e.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
-                <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem</p>
+                <h2 class="animate__animated animate__fadeInDown">Beragam dan Unik</h2>
+                <p class="animate__animated animate__fadeInUp">Ragam Motifnya yang Kaya dan Beragam.</p>
                 <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
@@ -695,8 +695,8 @@
         </div>
         <div class="col-lg-6 work-right-text d-flex align-items-center">
           <div class="px-5 py-5 py-lg-0">
-            <h2>working with us</h2>
-            <h5>Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.</h5>
+            <h2>Bekerjasama dengan Kami</h2>
+            <h5>Hubungi Kami untuk Informasi Lebih Lanjut</h5>
             <a href="#contact" class="ready-btn scrollto">Contact us</a>
           </div>
         </div>

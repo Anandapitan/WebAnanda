@@ -873,7 +873,7 @@ div#preloader {
 # Review
 --------------------------------------------------------------*/
 .reviews-area {
-  background: url(../img/background/reviews-bg.jpg);
+  background: url("../img/batik/7.jpg");
   overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1209,7 +1209,7 @@ div#preloader {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/background/slider-bg.jpg") no-repeat;
+  background: url("../img/batik/07.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
