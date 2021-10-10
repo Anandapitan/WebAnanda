@@ -264,7 +264,7 @@
               <div class="single-blog">
                 <div class="single-blog-img">
                   <a href="blog.html">
-                    <img src="assets/img/blog/1.jpg" alt="">
+                    <img src="assets/img/batik/Sejarah Kain Sasirangan.jpg" alt="">
                   </a>
                 </div>
                 
@@ -282,10 +282,10 @@
                 </div>
                 <div class="blog-text">
                   <h4>
-                    <a href="blog.html">Assumenda repud eum veniam</a>
+                    <a href="blog.html">Sejarah Kain Sasirangan</a>
                   </h4>
                   <p>
-                    Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                  Sasirangan mulai dibuat sejak abad ke-12 hingga ke-14 Masehi di Kalimantan Selatan. Pembuatannya dikenal dalam cerita rakyat yang membahas tentang masa Kerajaan Negara Dipa. Cerita ini membahas tentang Patih Lambung Mangkurat yang merupakan raja Kerajaan Negara Dipa. 
                   </p>
                 </div>
                 <span>
@@ -300,7 +300,7 @@
               <div class="single-blog">
                 <div class="single-blog-img">
                   <a href="blog.html">
-                    <img src="assets/img/blog/2.jpg" alt="">
+                    <img src="assets/img/batik/Makna Tersembunyi Kain Sasirangan.jpg" alt="">
                   </a>
                 </div>
                 <div class="blog-meta">
@@ -316,10 +316,10 @@
                 </div>
                 <div class="blog-text">
                   <h4>
-                    <a href="blog.html">Explicabo magnam quibusdam.</a>
+                    <a href="blog.html">Makna Tersembunyi Kain Sasirangan</a>
                   </h4>
                   <p>
-                    Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                  Masyarakat suku Banjar meyakini bahwa setiap corak atau motif yang terdapat pada kain sasirangan memiliki fungsi yang berbeda dalam ritual upacara adat. Seperti untuk pengobatan orang sakit (ghaib), ikat kepala adat Banjar (laung), kerudung (kakamban) dan sarung.
                   </p>
                 </div>
                 <span>
@@ -334,7 +334,7 @@
               <div class="single-blog">
                 <div class="single-blog-img">
                   <a href="blog.html">
-                    <img src="assets/img/blog/3.jpg" alt="">
+                    <img src="assets/img/batik/Membuat Kain Sasirangan3.jpg" alt="">
                   </a>
                 </div>
                 <div class="blog-meta">
@@ -350,10 +350,10 @@
                 </div>
                 <div class="blog-text">
                   <h4>
-                    <a href="blog.html">Lorem ipsum dolor sit amet</a>
+                    <a href="blog.html">Membuat Kain Sasirangan</a>
                   </h4>
                   <p>
-                    Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                  Proses pembuatan kain sasirangan cukup rumit/unik, dikerjakan melalui tahap-tahapan mulai dari mendesign motif, merajut, mencelup, membuka rajutan, mencuci dan menstrika. Keseluruhan penyelesaiannya dikerjakan oleh masing-masing pengrajin sesuai dengan keahliannya dan tidak menggunakan alat mekanis.
                   </p>
                 </div>
                 <span>
@@ -386,7 +386,7 @@
               <div class="single-blog">
                 <div class="single-blog-img">
                   <a href="blog.html">
-                    <img src="assets/img/blog/1.jpg" alt="">
+                    <img src="assets/img/batik/Tingkatkan Pamor Kain Sasirangan.jpg" alt="">
                   </a>
                 </div>
                 
@@ -404,10 +404,10 @@
                 </div>
                 <div class="blog-text">
                   <h4>
-                    <a href="blog.html">Assumenda repud eum veniam</a>
+                    <a href="blog.html">Tingkatkan Pamor Kain Sasirangan Lewat BSF, Puluhan Desainer Bersaing</a>
                   </h4>
                   <p>
-                    Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                  Gelaran Banjarmasin Sasirangan Festival (BSF) Ke-5 menjadi momentum untuk kembali meningkatkan pamor Kain Sasirangan ke pentas nasional hingga dunia. 
                   </p>
                 </div>
                 <span>
@@ -422,7 +422,7 @@
               <div class="single-blog">
                 <div class="single-blog-img">
                   <a href="blog.html">
-                    <img src="assets/img/blog/2.jpg" alt="">
+                    <img src="assets/img/batik/Fashion Carnaval Sasirangan.jpg" alt="">
                   </a>
                 </div>
                 <div class="blog-meta">
@@ -438,10 +438,10 @@
                 </div>
                 <div class="blog-text">
                   <h4>
-                    <a href="blog.html">Explicabo magnam quibusdam.</a>
+                    <a href="blog.html">Fashion Carnaval Sasirangan</a>
                   </h4>
                   <p>
-                    Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                  Fashion Carnaval Sasirangan menampilkan busana sasirangan kreasi tersebut merupakan rangkaian kegiatan Banjarmasin Sasirangan Festival 2021 yang bertujuan untuk memperkenalkan kain sasirangan di tingkat Nasional hingga Internasional itu tetap digelar di masa pandemi COVID-19 dengan menerapkan protokol kesehatan. 
                   </p>
                 </div>
                 <span>
@@ -456,7 +456,7 @@
               <div class="single-blog">
                 <div class="single-blog-img">
                   <a href="blog.html">
-                    <img src="assets/img/blog/3.jpg" alt="">
+                    <img src="assets/img/batik/Busana Bertema Kampung Sasirangan3.jpg" alt="">
                   </a>
                 </div>
                 <div class="blog-meta">
@@ -472,10 +472,10 @@
                 </div>
                 <div class="blog-text">
                   <h4>
-                    <a href="blog.html">Lorem ipsum dolor sit amet</a>
+                    <a href="blog.html">Busana Bertema Kampung Sasirangan Juara Carnaval Banjarmasin Sasirangan Festival 2021</a>
                   </h4>
                   <p>
-                    Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                  Busana tema Kampung Sasirangan juara Carnaval Sasirangan yang menjadi rangkaian Banjarmasin Sasirangan Festival (BSF) ke-5 Tahun 2021, Sabtu (9/10/2021) sore.
                   </p>
                 </div>
                 <span>
